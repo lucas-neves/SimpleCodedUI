@@ -1,0 +1,5 @@
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\data.csv
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CodedUITestProject1\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CodedUITestProject1\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
